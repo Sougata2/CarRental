@@ -142,7 +142,7 @@
     background-color: rgb(255, 113, 113);
   }
   
-  /* @media (max-width: 500px) {
+  @media (max-width: 500px) {
     .calendar-container {
       background: #fff;
       width: 350px;
@@ -175,5 +175,5 @@
       text-align: center;
       padding: 0;
     }
-  } */
+  }
   
