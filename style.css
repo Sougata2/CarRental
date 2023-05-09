@@ -145,7 +145,7 @@
   @media (max-width: 500px) {
     .calendar-container {
       background: #fff;
-      width: 350px;
+      width: 300px;
       border-radius: 10px;
       box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
     }
